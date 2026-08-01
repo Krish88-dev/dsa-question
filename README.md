@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Krish88-dev/dsa-question/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/Krish88-dev/dsa-question/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Krish88-dev/dsa-question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Krish88-dev/dsa-question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Krish88-dev/dsa-question/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Krish88-dev/dsa-question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Krish88-dev/dsa-question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Krish88-dev/dsa-question/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Krish88-dev/dsa-question/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/Krish88-dev/dsa-question/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krish88-dev/dsa-question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Krish88-dev/dsa-question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
