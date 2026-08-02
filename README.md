@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Krish88-dev/dsa-question/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Krish88-dev/dsa-question/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Krish88-dev/dsa-question/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Krish88-dev/dsa-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Krish88-dev/dsa-question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Krish88-dev/dsa-question/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Krish88-dev/dsa-question/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Krish88-dev/dsa-question/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Krish88-dev/dsa-question/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Krish88-dev/dsa-question/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Krish88-dev/dsa-question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Krish88-dev/dsa-question/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Krish88-dev/dsa-question/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Krish88-dev/dsa-question/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Krish88-dev/dsa-question/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Krish88-dev/dsa-question/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krish88-dev/dsa-question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Krish88-dev/dsa-question/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Krish88-dev/dsa-question/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
