@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Krish88-dev/dsa-question/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Krish88-dev/dsa-question/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Krish88-dev/dsa-question/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Krish88-dev/dsa-question/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Krish88-dev/dsa-question/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Krish88-dev/dsa-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Krish88-dev/dsa-question/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Krish88-dev/dsa-question/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Krish88-dev/dsa-question/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Krish88-dev/dsa-question/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Krish88-dev/dsa-question/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Krish88-dev/dsa-question/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Krish88-dev/dsa-question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Krish88-dev/dsa-question/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Krish88-dev/dsa-question/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Krish88-dev/dsa-question/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krish88-dev/dsa-question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1872-stone-game-viii](https://github.com/Krish88-dev/dsa-question/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Krish88-dev/dsa-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Krish88-dev/dsa-question/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Krish88-dev/dsa-question/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Krish88-dev/dsa-question/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Krish88-dev/dsa-question/tree/master/1872-stone-game-viii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Krish88-dev/dsa-question/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Krish88-dev/dsa-question/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Krish88-dev/dsa-question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Krish88-dev/dsa-question/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Krish88-dev/dsa-question/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Krish88-dev/dsa-question/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Krish88-dev/dsa-question/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Krish88-dev/dsa-question/tree/master/1927-sum-game) |
 ## Memoization
 |  |
@@ -218,11 +223,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Krish88-dev/dsa-question/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Krish88-dev/dsa-question/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Krish88-dev/dsa-question/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Krish88-dev/dsa-question/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Krish88-dev/dsa-question/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Krish88-dev/dsa-question/tree/master/1872-stone-game-viii) |
 ## Ordered Set
 |  |
 | ------- |
