@@ -253,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Krish88-dev/dsa-question/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Krish88-dev/dsa-question/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
