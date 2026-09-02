@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Krish88-dev/dsa-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0486-predict-the-winner](https://github.com/Krish88-dev/dsa-question/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Krish88-dev/dsa-question/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Krish88-dev/dsa-question/tree/master/1140-stone-game-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Krish88-dev/dsa-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Krish88-dev/dsa-question/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Krish88-dev/dsa-question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
