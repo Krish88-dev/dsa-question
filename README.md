@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Krish88-dev/dsa-question/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Krish88-dev/dsa-question/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Krish88-dev/dsa-question/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Krish88-dev/dsa-question/tree/master/0877-stone-game) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Krish88-dev/dsa-question/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/Krish88-dev/dsa-question/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Krish88-dev/dsa-question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/Krish88-dev/dsa-question/tree/master/1927-sum-game) |
