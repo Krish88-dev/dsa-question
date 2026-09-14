@@ -282,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Krish88-dev/dsa-question/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Krish88-dev/dsa-question/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
