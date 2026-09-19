@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Krish88-dev/dsa-question/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Krish88-dev/dsa-question/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Krish88-dev/dsa-question/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Krish88-dev/dsa-question/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Krish88-dev/dsa-question/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/Krish88-dev/dsa-question/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Krish88-dev/dsa-question/tree/master/1927-sum-game) |
@@ -291,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Krish88-dev/dsa-question/tree/master/0181-employees-earning-more-than-their-managers) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Krish88-dev/dsa-question/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
